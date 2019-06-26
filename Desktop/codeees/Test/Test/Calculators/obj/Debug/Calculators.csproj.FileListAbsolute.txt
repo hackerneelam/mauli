@@ -1,0 +1,13 @@
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\bin\Debug\Calculators.exe
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\bin\Debug\Calculators.pdb
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\bin\Debug\MathLibrary.dll
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\bin\Debug\MathLibrary.pdb
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.Form1.resources
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.csproj.CopyComplete
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.exe
+C:\Users\dac\Desktop\gaurav_net\Test\Calculators\obj\Debug\Calculators.pdb

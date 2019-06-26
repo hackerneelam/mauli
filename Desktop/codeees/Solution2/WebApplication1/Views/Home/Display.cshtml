@@ -1,0 +1,19 @@
+﻿@using BOL;
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Display</h2>
+<h2>Employee Details....</h2>
+
+
+@{
+
+    List<Employee> emp = ViewData["emp"] as List<Employee>;
+    foreach (Employee e in emp)
+    {
+        <p>@e.Id @e.Name @e.Address @e.salary</p>
+
+    }
+    
+}

@@ -1,0 +1,6 @@
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\dac\Desktop\gaurav_net\Test\MathLibrary\obj\Debug\MathLibrary.pdb
